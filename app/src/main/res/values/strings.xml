@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LayoutExperiments</string>
+    <string name="text_1">Hola que tal</string>
+    <string name="text_2">Vamos a probar layouts</string>
+    <string name="switch_text">Soy un Switch</string>
+    <string name="button_text">Soy un boton</string>
+</resources>
